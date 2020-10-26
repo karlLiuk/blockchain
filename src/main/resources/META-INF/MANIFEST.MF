@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: com.lk.BlockchainApplication
+Class-Path: jmespath-java-1.11.166.jar auto-common-0.8.jar commons-codec
+ -1.13.jar joda-time-2.10.5.jar httpclient-4.5.10.jar logback-core-1.2.3
+ .jar snakeyaml-1.25.jar spring-data-redis-2.2.3.RELEASE.jar google-http
+ -client-1.22.0.jar spring-data-commons-2.2.3.RELEASE.jar jakarta.annota
+ tion-api-1.3.5.jar spring-boot-starter-data-redis-2.2.2.RELEASE.jar spr
+ ing-boot-starter-2.2.2.RELEASE.jar spring-boot-autoconfigure-2.2.2.RELE
+ ASE.jar jackson-databind-2.10.1.jar spring-jcl-5.2.2.RELEASE.jar jcomma
+ nder-1.72.jar json-20170516.jar log4j-api-2.12.1.jar jedis-3.1.0.jar sp
+ ring-core-5.2.2.RELEASE.jar httpcore-4.4.12.jar google-oauth-client-1.2
+ 2.0.jar spring-expression-5.2.2.RELEASE.jar log4j-to-slf4j-2.12.1.jar a
+ ws-java-sdk-core-1.11.166.jar spring-context-support-5.2.2.RELEASE.jar 
+ aws-java-sdk-kms-1.11.166.jar spring-data-keyvalue-2.2.3.RELEASE.jar sp
+ ring-tx-5.2.2.RELEASE.jar spring-boot-2.2.2.RELEASE.jar animal-sniffer-
+ annotations-1.14.jar jackson-core-2.10.1.jar spring-boot-starter-loggin
+ g-2.2.2.RELEASE.jar testng-7.0.0.jar spring-aop-5.2.2.RELEASE.jar commo
+ ns-pool2-2.7.0.jar tink-1.2.0.jar jackson-annotations-2.10.1.jar google
+ -http-client-jackson2-1.22.0.jar auto-service-1.0-rc4.jar protobuf-java
+ -3.3.0.jar hutool-all-3.0.9.jar spring-beans-5.2.2.RELEASE.jar jsr305-1
+ .3.9.jar ion-java-1.0.2.jar jul-to-slf4j-1.7.29.jar spring-context-5.2.
+ 2.RELEASE.jar checker-compat-qual-2.0.0.jar j2objc-annotations-1.1.jar 
+ Java-WebSocket-1.3.8.jar guava-25.0-jre.jar spring-oxm-5.2.2.RELEASE.ja
+ r slf4j-api-1.7.29.jar logback-classic-1.2.3.jar google-api-client-1.22
+ .0.jar error_prone_annotations-2.1.3.jar google-api-services-cloudkms-v
+ 1-rev9-1.22.0.jar jackson-dataformat-cbor-2.10.1.jar
+
